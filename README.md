@@ -2,6 +2,8 @@
 
 This is a Django web application that retrieves data from Quickbutik API and presents a basic dashboard view of the recent orders and a graph of the top 3 most sold products.
 
+![Screenshot](Quickbutik.png?raw=true "Quickbutik")
+
 ## Technologies 
 
 The following technologies were used in this project:
